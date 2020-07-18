@@ -29,7 +29,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 
 mongoose.connect(
-  "mongodb+srv://arvey:arvey2509@node-rest-apis-ptmt1.mongodb.net/test?retryWrites=true&w=majority",
+  "",
   { useNewUrlParser: true, useUnifiedTopology: true }
 );
 
