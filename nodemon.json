@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_ATLAS_PWD" : "arvey2509",
+        "JWT_KEY": "arvey250996",
+        "PORT": 3000,
+        "SOCKET_PORT": 3001
+    }
+}
